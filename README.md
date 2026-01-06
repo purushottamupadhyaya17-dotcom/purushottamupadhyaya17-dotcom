@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Purushottam</h1>
+<h3 align="center">Beginner Web Developer | Learning by Building 🚀</h3>
 
-<!--
-**purushottamupadhyaya17-dotcom/purushottamupadhyaya17-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 Currently learning **HTML, CSS & JavaScript**  
+💻 Interested in **Web Apps & Creative UI**  
+✨ Love making fun and interactive projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚙️ JavaScript (learning)
+
+---
+
+## 📌 Featured Projects
+🔹 **Website-For-Girlfriend**  
+A fun, interactive web app with playful design and animations  
+
+🔹 **Simple-Chat**  
+A basic chat interface built using HTML & CSS  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=purushottamupadhyaya17-dotcom&show_icons=true&theme=default" />
+</p>
+
+---
+
+<p align="center">
+✨ Learning daily • Improving steadily • Building confidently ✨
+</p>
